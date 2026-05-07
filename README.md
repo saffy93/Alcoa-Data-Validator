@@ -20,4 +20,17 @@ This project demonstrates practical application of ALCOA+ (Attributable, Legible
 
 
 
-## Example Output
+## Example Output 
+## How to Run
+
+1. Open `ALCOA_Data_Validator.ipynb` in Google Colab
+
+2. Run all cells
+
+3. Modify the `records` list to test your own data
+
+
+
+## Built by
+
+Safra Dar — Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality roles.
