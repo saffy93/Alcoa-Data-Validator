@@ -21,8 +21,9 @@ This project demonstrates practical application of ALCOA+ (Attributable, Legible
 
 
 ## Example Output 
-## How to Run
+=== ALCOA+ Data Validator Test Results ===
 
+Record 1: ✅ PASS Record 2: ❌ FAIL: Missing Attributable (who performed the task) Record 3: ❌ FAIL: Not Contemporaneous (recorded too late)
 1. Open `ALCOA_Data_Validator.ipynb` in Google Colab
 
 2. Run all cells
