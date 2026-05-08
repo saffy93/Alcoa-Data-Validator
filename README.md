@@ -6,7 +6,7 @@
 
 
 
-This project demonstrates practical application of ALCOA+ (Attributable, Legible, Contemporaneous, Original, Accurate, Complete, Consistent, Enduring, Available) — core principles used daily in regulated histology laboratories and clinical environments.
+This project demonstrates practical application of ALCOA+ (Attributable, Legible, Contemporaneous, Original, Accurate, Complete, Consistent, Enduring, Available). These are the core principles used daily in regulated histology laboratories and clinical environments.
 
 
 
@@ -34,4 +34,4 @@ Record 1: ✅ PASS Record 2: ❌ FAIL: Missing Attributable (who performed the t
 
 ## Built by
 
-Safra Dar — Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality roles.
+Safra Dar: Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality roles.
